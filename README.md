@@ -13,3 +13,9 @@ Here are some examples of the images we will be working with:
 ![alt text](https://github.com/vzinche/training_ML_for_image_analysis_EBI/blob/master/imgs/pic3.png "Image 3")
 ![alt text](https://github.com/vzinche/training_ML_for_image_analysis_EBI/blob/master/imgs/pic4.png "Image 4")
 
+## Useful links
+1. [Machine Learning course](https://www.coursera.org/learn/machine-learning) by Andrew Ng on Coursera
+2. [Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/syllabus.html) - a Stanford course
+3. [PyTorch Tutorials](https://pytorch.org/tutorials/) - Getting Started Tutorials for Image and Text processing
+4. [UNet](https://towardsdatascience.com/u-net-b229b32b4a71) - The Intuition Behind UNet
+5. [Focal and Dice Loss](https://becominghuman.ai/investigating-focal-and-dice-loss-for-the-kaggle-2018-data-science-bowl-65fb9af4f36c) - Investigating Focal and Dice Loss for the Kaggle 2018 Data Science Bowl
